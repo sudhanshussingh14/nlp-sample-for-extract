@@ -1,0 +1,3358 @@
+{
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ],
+        "MediaBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ]
+      },
+      "page_number": 0,
+      "rotation": 0,
+      "is_scanned": false,
+      "width": 595.02001953125,
+      "height": 841.97998046875
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ],
+        "MediaBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ]
+      },
+      "page_number": 1,
+      "rotation": 0,
+      "is_scanned": false,
+      "width": 595.02001953125,
+      "height": 841.97998046875
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ],
+        "MediaBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ]
+      },
+      "page_number": 2,
+      "rotation": 0,
+      "is_scanned": false,
+      "width": 595.02001953125,
+      "height": 841.97998046875
+    },
+    {
+      "boxes": {
+        "CropBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ],
+        "MediaBox": [
+          0,
+          0,
+          595.02001953125,
+          841.97998046875
+        ]
+      },
+      "page_number": 3,
+      "rotation": 0,
+      "is_scanned": false,
+      "width": 595.02001953125,
+      "height": 841.97998046875
+    }
+  ],
+  "extended_metadata": {
+    "is_encrypted": false,
+    "is_certified": false,
+    "ID_permanent": "37 31 20 35 33 20 35 45 20 46 43 20 44 39 20 42 36 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "language": "en-US",
+    "pdf_version": "1.6",
+    "ID_instance": "99 7C 61 FC D9 B6 B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "has_FORMAC": false,
+    "is_digitally_signed": false,
+    "has_embedded_files": false,
+    "is_XFA": false,
+    "pdfa_compliance_level": "",
+    "pdfua_compliance_level": "",
+    "page_count": 4
+  },
+  "elements": [
+    {
+      "Path": "//Document/Sect/Title",
+      "HasClip": true,
+      "Bounds": [
+        288.3800048828125,
+        624.1145782470703,
+        448.9399719238281,
+        664.1345825195312
+      ],
+      "TextSize": 40.02000427246094,
+      "ClipBounds": [
+        288.3800048828125,
+        624.1145782470703,
+        448.9399719238281,
+        664.1345825195312
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Text": "INVOICE ",
+      "attributes": {
+        "TextAlign": "End",
+        "LineHeight": 48,
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "GJAGMR+AdobeClean-Bold",
+        "weight": 700,
+        "alt_family_name": "Clean",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Adobe Clean",
+        "font_type": "Type1",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 1
+    },
+    {
+      "Path": "//Document/Sect/Figure",
+      "Bounds": [
+        71.75,
+        28.154998779296875,
+        442.27854919433594,
+        619.0359954833984
+      ],
+      "ClipBounds": [
+        71.75,
+        28.154998779296875,
+        442.27854919433594,
+        619.0359954833984
+      ],
+      "Page": 0,
+      "attributes": {
+        "Placement": "Block",
+        "BBox": [
+          71.99709999999686,
+          28.173099999999977,
+          442.30199999999604,
+          615.0689999999886
+        ]
+      },
+      "filePaths": [
+        "figures/fileoutpart0.png"
+      ],
+      "elementId": 2
+    },
+    {
+      "Path": "//Document/Sect[2]/H1",
+      "HasClip": true,
+      "Bounds": [
+        288.3800048828125,
+        565.6959991455078,
+        415.14794921875,
+        589.6959991455078
+      ],
+      "TextSize": 24,
+      "ClipBounds": [
+        288.3800048828125,
+        565.6959991455078,
+        415.14794921875,
+        589.6959991455078
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Text": "Global Corp ",
+      "attributes": {
+        "LineHeight": 28.75,
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "LJJFEH+AdobeClean-Regular",
+        "weight": 400,
+        "alt_family_name": "Clean",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Adobe Clean",
+        "font_type": "Type1",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 3
+    },
+    {
+      "Path": "//Document/Sect[2]/P",
+      "HasClip": true,
+      "Bounds": [
+        288.3800048828125,
+        506.3560028076172,
+        428.179931640625,
+        530.3560028076172
+      ],
+      "TextSize": 24,
+      "ClipBounds": [
+        288.3800048828125,
+        506.3560028076172,
+        428.179931640625,
+        530.3560028076172
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Text": "Prepared by: ",
+      "attributes": {
+        "LineHeight": 28.75,
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "GJAGMR+AdobeClean-Bold",
+        "weight": 700,
+        "alt_family_name": "Clean",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Adobe Clean",
+        "font_type": "Type1",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 4
+    },
+    {
+      "Path": "//Document/Sect[3]/H1",
+      "HasClip": true,
+      "Bounds": [
+        288.3800048828125,
+        388.3760070800781,
+        410.995849609375,
+        412.3760070800781
+      ],
+      "TextSize": 24,
+      "ClipBounds": [
+        288.3800048828125,
+        388.57000732421875,
+        410.995849609375,
+        412.3760070800781
+      ],
+      "Lang": "en",
+      "Page": 0,
+      "Text": "06/03/2021 ",
+      "attributes": {
+        "LineHeight": 28.75
+      },
+      "Font": {
+        "name": "LJJFEH+AdobeClean-Regular",
+        "weight": 400,
+        "alt_family_name": "Clean",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Adobe Clean",
+        "font_type": "Type1",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 5
+    },
+    {
+      "Path": "//Document/Sect[4]/H1",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        744.375,
+        239.36346435546875,
+        776.5419616699219
+      ],
+      "TextSize": 28.020004272460938,
+      "ClipBounds": [
+        72,
+        744.375,
+        239.36346435546875,
+        776.5419616699219
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "SALES INVOICE ",
+      "attributes": {
+        "LineHeight": 33.625,
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDFEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "Identity-H",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "CIDFontType2",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 6
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        697.9259948730469,
+        122.93238830566406,
+        714.4040069580078
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        697.9259948730469,
+        122.93238830566406,
+        714.4040069580078
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "BILL TO ",
+      "attributes": {
+        "LineHeight": 19.25
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 7
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect/P/Sub",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        683.0350036621094,
+        165.02261352539062,
+        694.0149993896484
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        683.0350036621094,
+        165.02261352539062,
+        694.0149993896484
+      ],
+      "Page": 1,
+      "Text": "Jersy Cargo Logistics ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 8
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect/P/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        668.5749969482422,
+        145.43426513671875,
+        679.5549926757812
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        668.5749969482422,
+        145.43426513671875,
+        679.5549926757812
+      ],
+      "Page": 1,
+      "Text": "4 Florence Alley ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 9
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect/P/Sub[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        654.0549926757812,
+        153.35089111328125,
+        665.0350036621094
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        654.0549926757812,
+        153.35089111328125,
+        665.0350036621094
+      ],
+      "Page": 1,
+      "Text": "Coolidge Junction ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 10
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect/P/Sub[4]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        639.5950012207031,
+        211.132568359375,
+        650.5749969482422
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        639.5950012207031,
+        211.132568359375,
+        650.5749969482422
+      ],
+      "Page": 1,
+      "Text": "Comanche, Namekagon 98001 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 11
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        592.3860015869141,
+        128.7314910888672,
+        608.8639984130859
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        592.3860015869141,
+        128.7314910888672,
+        608.8639984130859
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "INVOICE ",
+      "attributes": {
+        "LineHeight": 19.25,
+        "SpaceAfter": 4.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 12
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        571.9450073242188,
+        163.06570434570312,
+        585.9250030517578
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        571.9450073242188,
+        163.06570434570312,
+        585.9250030517578
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "Invoice number ",
+      "attributes": {
+        "SpaceAfter": 2.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 13
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/P[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        557.0950012207031,
+        158.13812255859375,
+        568.0749969482422
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        557.0950012207031,
+        158.13812255859375,
+        568.0749969482422
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "AFC4S1222203171 ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 14
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/Sect/H3",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        537.0249938964844,
+        155.29278564453125,
+        551.0050048828125
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        537.0249938964844,
+        155.29278564453125,
+        551.0050048828125
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "INVOICE DATE ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 15
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/Sect/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        522.1150054931641,
+        174.5271759033203,
+        533.0950012207031
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        522.1150054931641,
+        174.5271759033203,
+        533.0950012207031
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "09-04-2021, 10:23 AM ",
+      "attributes": {
+        "SpaceAfter": 2.375
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 16
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/Sect[2]/H3",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        502.10499572753906,
+        154.9434356689453,
+        516.0850067138672
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        502.10499572753906,
+        154.9434356689453,
+        516.0850067138672
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "CUSTOMER ID ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 17
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[2]/Sect[2]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        487.19500732421875,
+        152.2747344970703,
+        498.1750030517578
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        487.19500732421875,
+        152.2747344970703,
+        498.1750030517578
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "31LPAC20149E1T ",
+      "attributes": {
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 18
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        439.96600341796875,
+        127.20965576171875,
+        456.4440002441406
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        439.96600341796875,
+        127.20965576171875,
+        456.4440002441406
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "DETAILS ",
+      "attributes": {
+        "LineHeight": 19.25,
+        "SpaceAfter": 4.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 19
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        419.5850067138672,
+        101.73544311523438,
+        433.56500244140625
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        419.5850067138672,
+        101.73544311523438,
+        433.56500244140625
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "Date ",
+      "attributes": {
+        "SpaceAfter": 2.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 20
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/P[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        404.6750030517578,
+        174.5271759033203,
+        415.6549987792969
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        404.6750030517578,
+        174.5271759033203,
+        415.6549987792969
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "09-04-2021, 10:20 AM ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 21
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect/H3",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        384.6649932861328,
+        91.33705139160156,
+        398.64500427246094
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        384.6649932861328,
+        91.33705139160156,
+        398.64500427246094
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "PO ",
+      "attributes": {
+        "SpaceAfter": 2.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 22
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        369.7550048828125,
+        155.87521362304688,
+        380.73500061035156
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        369.7550048828125,
+        155.87521362304688,
+        380.73500061035156
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "CPO-12345-09876 ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 23
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[2]/H3",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        349.68499755859375,
+        124.63462829589844,
+        363.6649932861328
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        349.68499755859375,
+        124.63462829589844,
+        363.6649932861328
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "ORDER # ",
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 24
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[2]/P/Sub",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        334.8350067138672,
+        177.73745727539062,
+        345.81500244140625
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        334.8350067138672,
+        177.73745727539062,
+        345.81500244140625
+      ],
+      "Page": 1,
+      "Text": "OD2100397138762021 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 25
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[2]/P/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        314.76499938964844,
+        131.45700073242188,
+        328.7449951171875
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        314.76499938964844,
+        131.45700073242188,
+        328.7449951171875
+      ],
+      "Page": 1,
+      "Text": "Sales REP. ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 26
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[2]/P/Sub[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        299.9149932861328,
+        125.69219970703125,
+        310.89500427246094
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        299.9149932861328,
+        125.69219970703125,
+        310.89500427246094
+      ],
+      "Page": 1,
+      "Text": "Handicrafts ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 27
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[3]/H3",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        279.8450012207031,
+        122.85922241210938,
+        293.8249969482422
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        279.8450012207031,
+        122.85922241210938,
+        293.8249969482422
+      ],
+      "Lang": "en",
+      "Page": 1,
+      "Text": "SHIP VIA ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 28
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[3]/Sect[3]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        264.93499755859375,
+        122.55189514160156,
+        275.9149932861328
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        264.93499755859375,
+        122.55189514160156,
+        275.9149932861328
+      ],
+      "Lang": "pt",
+      "Page": 1,
+      "Text": "Jang Cargo ",
+      "attributes": {
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 29
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        746.6060028076172,
+        134.88323974609375,
+        763.0839996337891
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        746.6060028076172,
+        134.88323974609375,
+        763.0839996337891
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "SERVICES ",
+      "attributes": {
+        "LineHeight": 19.25,
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 30
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table",
+      "Bounds": [
+        81.89999389648438,
+        658.1349945068359,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        81.89999389648438,
+        658.1349945068359,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "Placement": "Block",
+        "BBox": [
+          75.59689999999682,
+          656.9479999999749,
+          536.0179999999818,
+          733.743999999977
+        ],
+        "NumCol": 5,
+        "NumRow": 3,
+        "SpaceAfter": 18
+      },
+      "filePaths": [
+        "tables/fileoutpart1.xlsx",
+        "tables/fileoutpart2.png"
+      ],
+      "elementId": 31
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH",
+      "Bounds": [
+        81.89999389648438,
+        713.5149993896484,
+        102.42601013183594,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        81.89999389648438,
+        713.5149993896484,
+        102.42601013183594,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          3.25,
+          0.375,
+          0.625,
+          0.25
+        ],
+        "ColIndex": 0,
+        "RowIndex": 0,
+        "BBox": [
+          75.59689999999682,
+          712.7449999999953,
+          131.27499999999418,
+          733.743999999977
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          [
+            1,
+            0.2039179999999945,
+            0.2039179999999945
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "Height": 21,
+        "Width": 55.625,
+        "BlockAlign": "After",
+        "BackgroundColor": [
+          0.9058839999999861,
+          0.9019619999999975,
+          0.9019619999999975
+        ]
+      },
+      "elementId": 32
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH/P",
+      "HasClip": true,
+      "Bounds": [
+        81.89999389648438,
+        713.5149993896484,
+        102.42601013183594,
+        724.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        81.89999389648438,
+        713.5149993896484,
+        102.42601013183594,
+        724.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "QTY ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 33
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[2]",
+      "Bounds": [
+        135.86000061035156,
+        713.5149993896484,
+        161.2018280029297,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        135.86000061035156,
+        713.5149993896484,
+        161.2018280029297,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          3.25,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 1,
+        "RowIndex": 0,
+        "BBox": [
+          130.67499999999563,
+          712.7449999999953,
+          180.2329999999929,
+          733.743999999977
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          [
+            1,
+            0.2039179999999945,
+            0.2039179999999945
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "Height": 21,
+        "Width": 49.5,
+        "BlockAlign": "After",
+        "BackgroundColor": [
+          0.9058839999999861,
+          0.9019619999999975,
+          0.9019619999999975
+        ]
+      },
+      "elementId": 34
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[2]/P",
+      "HasClip": true,
+      "Bounds": [
+        135.86000061035156,
+        713.5149993896484,
+        161.2018280029297,
+        724.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        135.86000061035156,
+        713.5149993896484,
+        161.2018280029297,
+        724.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "ITEM ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 35
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[3]",
+      "Bounds": [
+        185.47999572753906,
+        713.5149993896484,
+        247.90126037597656,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        185.47999572753906,
+        713.5149993896484,
+        247.90126037597656,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          3.25,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 2,
+        "RowIndex": 0,
+        "BBox": [
+          179.63299999999435,
+          712.7449999999953,
+          357.4649999999965,
+          733.743999999977
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          [
+            1,
+            0.2039179999999945,
+            0.2039179999999945
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "Height": 21,
+        "Width": 177.875,
+        "BlockAlign": "After",
+        "BackgroundColor": [
+          0.9058839999999861,
+          0.9019619999999975,
+          0.9019619999999975
+        ]
+      },
+      "elementId": 36
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[3]/P",
+      "HasClip": true,
+      "Bounds": [
+        185.47999572753906,
+        713.5149993896484,
+        247.90126037597656,
+        724.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        185.47999572753906,
+        713.5149993896484,
+        247.90126037597656,
+        724.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "DESCRIPTION ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 37
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[4]",
+      "Bounds": [
+        362.67999267578125,
+        713.5149993896484,
+        412.3644714355469,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        362.67999267578125,
+        713.5149993896484,
+        412.3644714355469,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          3.25,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 3,
+        "RowIndex": 0,
+        "BBox": [
+          356.8649999999907,
+          712.7449999999953,
+          435.2219999999943,
+          733.743999999977
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          [
+            1,
+            0.2039179999999945,
+            0.2039179999999945
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "Height": 21,
+        "Width": 78.375,
+        "BlockAlign": "After",
+        "BackgroundColor": [
+          0.9058839999999861,
+          0.9019619999999975,
+          0.9019619999999975
+        ]
+      },
+      "elementId": 38
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[4]/P",
+      "HasClip": true,
+      "Bounds": [
+        362.67999267578125,
+        713.5149993896484,
+        412.3644714355469,
+        724.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        362.67999267578125,
+        713.5149993896484,
+        412.3644714355469,
+        724.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "DISCOUNT ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 39
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[5]",
+      "Bounds": [
+        440.6199951171875,
+        713.5149993896484,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "ClipBounds": [
+        440.6199951171875,
+        713.5149993896484,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          3.25,
+          0.375,
+          0.25,
+          0.625
+        ],
+        "ColIndex": 4,
+        "RowIndex": 0,
+        "BBox": [
+          434.6219999999885,
+          712.7449999999953,
+          536.6179999999877,
+          733.743999999977
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          [
+            1,
+            0.2039179999999945,
+            0.2039179999999945
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "Height": 21,
+        "Width": 102,
+        "BlockAlign": "After",
+        "BackgroundColor": [
+          0.9058839999999861,
+          0.9019619999999975,
+          0.9019619999999975
+        ]
+      },
+      "elementId": 40
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR/TH[5]/P",
+      "HasClip": true,
+      "Bounds": [
+        440.6199951171875,
+        713.5149993896484,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        440.6199951171875,
+        713.5149993896484,
+        471.9874572753906,
+        724.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "TOTAL ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 41
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD",
+      "Bounds": [
+        81.89999389648438,
+        692.1549987792969,
+        89.9483642578125,
+        703.1349945068359
+      ],
+      "ClipBounds": [
+        81.89999389648438,
+        692.1549987792969,
+        89.9483642578125,
+        703.1349945068359
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.375,
+          0.625,
+          0.25
+        ],
+        "ColIndex": 0,
+        "RowIndex": 1,
+        "BBox": [
+          75.59689999999682,
+          683.9459999999963,
+          131.27499999999418,
+          713.4649999999965
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 29.5,
+        "Width": 55.625,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 42
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD/P",
+      "HasClip": true,
+      "Bounds": [
+        81.89999389648438,
+        692.1549987792969,
+        89.9483642578125,
+        703.1349945068359
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        81.89999389648438,
+        692.1549987792969,
+        89.9483642578125,
+        703.1349945068359
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "2 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 43
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[2]",
+      "Bounds": [
+        135.86000061035156,
+        685.4349975585938,
+        176.453125,
+        709.8549957275391
+      ],
+      "ClipBounds": [
+        135.86000061035156,
+        685.4349975585938,
+        176.453125,
+        709.8549957275391
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 1,
+        "RowIndex": 1,
+        "BBox": [
+          130.67499999999563,
+          683.9459999999963,
+          180.2329999999929,
+          713.4649999999965
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 29.5,
+        "Width": 49.5,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 44
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[2]/P",
+      "HasClip": true,
+      "Bounds": [
+        135.86000061035156,
+        685.4349975585938,
+        176.453125,
+        709.8549957275391
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        135.86000061035156,
+        685.4349975585938,
+        176.453125,
+        709.8549957275391
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "Aviator Sunglass ",
+      "attributes": {
+        "LineHeight": 13.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 45
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[3]",
+      "Bounds": [
+        185.47999572753906,
+        692.1549987792969,
+        332.0081024169922,
+        703.1349945068359
+      ],
+      "ClipBounds": [
+        185.47999572753906,
+        692.1549987792969,
+        332.0081024169922,
+        703.1349945068359
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 2,
+        "RowIndex": 1,
+        "BBox": [
+          179.63299999999435,
+          683.9459999999963,
+          357.4649999999965,
+          713.4649999999965
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 29.5,
+        "Width": 177.875,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 46
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[3]/P",
+      "HasClip": true,
+      "Bounds": [
+        185.47999572753906,
+        692.1549987792969,
+        332.0081024169922,
+        703.1349945068359
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        185.47999572753906,
+        692.1549987792969,
+        332.0081024169922,
+        703.1349945068359
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "Light weight, thin and grey color ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 47
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[4]",
+      "Bounds": [
+        362.67999267578125,
+        692.1549987792969,
+        379.69496154785156,
+        703.1349945068359
+      ],
+      "ClipBounds": [
+        362.67999267578125,
+        692.1549987792969,
+        379.69496154785156,
+        703.1349945068359
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.375,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 3,
+        "RowIndex": 1,
+        "BBox": [
+          356.8649999999907,
+          683.9459999999963,
+          435.2219999999943,
+          713.4649999999965
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 29.5,
+        "Width": 78.375,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 48
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[4]/P",
+      "HasClip": true,
+      "Bounds": [
+        362.67999267578125,
+        692.1549987792969,
+        379.69496154785156,
+        703.1349945068359
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        362.67999267578125,
+        692.1549987792969,
+        379.69496154785156,
+        703.1349945068359
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "-25 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 49
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[5]",
+      "Bounds": [
+        440.6199951171875,
+        692.1549987792969,
+        465.43507385253906,
+        703.1349945068359
+      ],
+      "ClipBounds": [
+        440.6199951171875,
+        692.1549987792969,
+        465.43507385253906,
+        703.1349945068359
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.375,
+          0.25,
+          0.625
+        ],
+        "ColIndex": 4,
+        "RowIndex": 1,
+        "BBox": [
+          434.6219999999885,
+          683.9459999999963,
+          536.6179999999877,
+          713.4649999999965
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 29.5,
+        "Width": 102,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 50
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[2]/TD[5]/P",
+      "HasClip": true,
+      "Bounds": [
+        440.6199951171875,
+        692.1549987792969,
+        465.43507385253906,
+        703.1349945068359
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        440.6199951171875,
+        692.1549987792969,
+        465.43507385253906,
+        703.1349945068359
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "$225 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 51
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD",
+      "Bounds": [
+        81.89999389648438,
+        664.7949981689453,
+        89.9483642578125,
+        675.7749938964844
+      ],
+      "ClipBounds": [
+        81.89999389648438,
+        664.7949981689453,
+        89.9483642578125,
+        675.7749938964844
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.75,
+          0.625,
+          0.25
+        ],
+        "ColIndex": 0,
+        "RowIndex": 2,
+        "BBox": [
+          75.59689999999682,
+          656.2279999999737,
+          131.27499999999418,
+          684.6659999999974
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 28.5,
+        "Width": 55.625,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 52
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD/P",
+      "HasClip": true,
+      "Bounds": [
+        81.89999389648438,
+        664.7949981689453,
+        89.9483642578125,
+        675.7749938964844
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        81.89999389648438,
+        664.7949981689453,
+        89.9483642578125,
+        675.7749938964844
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "1 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 53
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[2]",
+      "Bounds": [
+        135.86000061035156,
+        658.1349945068359,
+        171.09481811523438,
+        682.4949951171875
+      ],
+      "ClipBounds": [
+        135.86000061035156,
+        658.1349945068359,
+        171.09481811523438,
+        682.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.75,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 1,
+        "RowIndex": 2,
+        "BBox": [
+          130.67499999999563,
+          656.2279999999737,
+          180.2329999999929,
+          684.6659999999974
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 28.5,
+        "Width": 49.5,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 54
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[2]/P/Sub",
+      "HasClip": true,
+      "Bounds": [
+        135.86000061035156,
+        671.5149993896484,
+        157.30397033691406,
+        682.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        135.86000061035156,
+        671.5149993896484,
+        157.30397033691406,
+        682.4949951171875
+      ],
+      "Page": 2,
+      "Text": "Bike ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 55
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[2]/P/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        135.86000061035156,
+        658.1349945068359,
+        171.09481811523438,
+        669.1150054931641
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        135.86000061035156,
+        658.1349945068359,
+        171.09481811523438,
+        669.1150054931641
+      ],
+      "Page": 2,
+      "Text": "Helmet ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 56
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[3]",
+      "Bounds": [
+        185.47999572753906,
+        658.1349945068359,
+        315.4283752441406,
+        682.4949951171875
+      ],
+      "ClipBounds": [
+        185.47999572753906,
+        658.1349945068359,
+        315.4283752441406,
+        682.4949951171875
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.75,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 2,
+        "RowIndex": 2,
+        "BBox": [
+          179.63299999999435,
+          656.2279999999737,
+          357.4649999999965,
+          684.6659999999974
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 28.5,
+        "Width": 177.875,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 57
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[3]/P",
+      "HasClip": true,
+      "Bounds": [
+        185.47999572753906,
+        658.1349945068359,
+        315.4283752441406,
+        682.4949951171875
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        185.47999572753906,
+        658.1349945068359,
+        315.4283752441406,
+        682.4949951171875
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "ISI approved. Ideal for: Boys, Compact design and strong ",
+      "attributes": {
+        "LineHeight": 13.375
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 58
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[4]",
+      "Bounds": [
+        362.67999267578125,
+        664.7949981689453,
+        370.7283630371094,
+        675.7749938964844
+      ],
+      "ClipBounds": [
+        362.67999267578125,
+        664.7949981689453,
+        370.7283630371094,
+        675.7749938964844
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.75,
+          0.25,
+          0.25
+        ],
+        "ColIndex": 3,
+        "RowIndex": 2,
+        "BBox": [
+          356.8649999999907,
+          656.2279999999737,
+          435.2219999999943,
+          684.6659999999974
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 28.5,
+        "Width": 78.375,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 59
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[4]/P",
+      "HasClip": true,
+      "Bounds": [
+        362.67999267578125,
+        664.7949981689453,
+        370.7283630371094,
+        675.7749938964844
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        362.67999267578125,
+        664.7949981689453,
+        370.7283630371094,
+        675.7749938964844
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "0 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 60
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[5]",
+      "Bounds": [
+        440.6199951171875,
+        664.7949981689453,
+        465.43507385253906,
+        675.7749938964844
+      ],
+      "ClipBounds": [
+        440.6199951171875,
+        664.7949981689453,
+        465.43507385253906,
+        675.7749938964844
+      ],
+      "Page": 2,
+      "attributes": {
+        "InlineAlign": "Start",
+        "BorderThickness": [
+          0.375,
+          0.75,
+          0.25,
+          0.625
+        ],
+        "ColIndex": 4,
+        "RowIndex": 2,
+        "BBox": [
+          434.6219999999885,
+          656.2279999999737,
+          536.6179999999877,
+          684.6659999999974
+        ],
+        "BorderStyle": "Solid",
+        "BorderColor": [
+          0,
+          0,
+          0
+        ],
+        "Height": 28.5,
+        "Width": 102,
+        "BlockAlign": "Middle"
+      },
+      "elementId": 61
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/Table/TR[3]/TD[5]/P",
+      "HasClip": true,
+      "Bounds": [
+        440.6199951171875,
+        664.7949981689453,
+        465.43507385253906,
+        675.7749938964844
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        440.6199951171875,
+        664.7949981689453,
+        465.43507385253906,
+        675.7749938964844
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "$450 ",
+      "attributes": {
+        "LineHeight": 13.125
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 62
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        624.1450042724609,
+        122.17413330078125,
+        638.125
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        624.1450042724609,
+        122.17413330078125,
+        638.125
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "Subtotal ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 63
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        609.2350006103516,
+        96.81507873535156,
+        620.2149963378906
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        609.2350006103516,
+        96.81507873535156,
+        620.2149963378906
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "$675 ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 64
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        589.1649932861328,
+        94.36796569824219,
+        603.1450042724609
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        589.1649932861328,
+        94.36796569824219,
+        603.1450042724609
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "Tax ",
+      "attributes": {
+        "SpaceAfter": 2.375
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 65
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[4]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        574.3150024414062,
+        105.11569213867188,
+        585.2949981689453
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        574.3150024414062,
+        105.11569213867188,
+        585.2949981689453
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "19.575 ",
+      "attributes": {
+        "SpaceAfter": 2.5
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 66
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[5]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        554.2449951171875,
+        123.26473999023438,
+        568.2250061035156
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        554.2449951171875,
+        123.26473999023438,
+        568.2250061035156
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "Shipping ",
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 67
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[6]/Sub",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        539.3950042724609,
+        99.51583862304688,
+        550.375
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        539.3950042724609,
+        99.51583862304688,
+        550.375
+      ],
+      "Page": 2,
+      "Text": "$4.49 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 68
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[6]/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        519.3249969482422,
+        155.29293823242188,
+        533.3049926757812
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        519.3249969482422,
+        155.29293823242188,
+        533.3049926757812
+      ],
+      "Page": 2,
+      "Text": "Miscellaneous ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 69
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[6]/Sub[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        504.4149932861328,
+        93.94894409179688,
+        515.3950042724609
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        504.4149932861328,
+        93.94894409179688,
+        515.3950042724609
+      ],
+      "Page": 2,
+      "Text": "$1.3 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 70
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[6]/Sub[4]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        484.4049987792969,
+        127.50059509277344,
+        498.38499450683594
+      ],
+      "TextSize": 13.979995727539062,
+      "ClipBounds": [
+        72,
+        484.4049987792969,
+        127.50059509277344,
+        498.38499450683594
+      ],
+      "Page": 2,
+      "Text": "BALANCE ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 71
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[4]/P[6]/Sub[5]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        469.4949951171875,
+        116.24935913085938,
+        480.4750061035156
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        469.4949951171875,
+        116.24935913085938,
+        480.4750061035156
+      ],
+      "Page": 2,
+      "Text": "$700.365 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 72
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[5]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        393.28599548339844,
+        174.93324279785156,
+        409.7640075683594
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        393.28599548339844,
+        174.93324279785156,
+        409.7640075683594
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "INVOICE NOTES ",
+      "attributes": {
+        "LineHeight": 19.25,
+        "SpaceAfter": 3.125
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 73
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[5]/P",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        378.4550018310547,
+        400.9058837890625,
+        389.43499755859375
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        378.4550018310547,
+        400.9058837890625,
+        389.43499755859375
+      ],
+      "Lang": "en",
+      "Page": 2,
+      "Text": "The goods sold are intended for end user consumption and not for resale ",
+      "attributes": {
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 74
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[6]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        773.0659942626953,
+        252.85447692871094,
+        789.5440063476562
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        773.0659942626953,
+        252.85447692871094,
+        789.5440063476562
+      ],
+      "Lang": "en",
+      "Page": 3,
+      "Text": "CHECKS MADE PAYABLE TO: ",
+      "attributes": {
+        "LineHeight": 19.25
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 75
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[6]/P/Sub",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        758.2350006103516,
+        120.19114685058594,
+        769.2149963378906
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        758.2350006103516,
+        120.19114685058594,
+        769.2149963378906
+      ],
+      "Page": 3,
+      "Text": "Projected, ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 76
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[6]/P/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        743.7149963378906,
+        284.91075134277344,
+        754.6950073242188
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        743.7149963378906,
+        284.91075134277344,
+        754.6950073242188
+      ],
+      "Page": 3,
+      "Text": "13H Coastal Road, Whitestone Bridge, Houston ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 77
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[6]/P/Sub[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        729.2550048828125,
+        130.0152130126953,
+        740.2350006103516
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        729.2550048828125,
+        130.0152130126953,
+        740.2350006103516
+      ],
+      "Page": 3,
+      "Text": "Texas 12345 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 78
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[6]/P/Sub[4]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        714.7350006103516,
+        288.865966796875,
+        725.7149963378906
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        714.7350006103516,
+        288.865966796875,
+        725.7149963378906
+      ],
+      "Page": 3,
+      "Text": "Please reference invoice number on your check. ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 79
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/H2",
+      "HasClip": true,
+      "Bounds": [
+        71.77099609375,
+        667.5059967041016,
+        263.7847595214844,
+        683.9840087890625
+      ],
+      "TextSize": 16.020004272460938,
+      "ClipBounds": [
+        71.77099609375,
+        667.5059967041016,
+        263.7847595214844,
+        683.9840087890625
+      ],
+      "Lang": "en",
+      "Page": 3,
+      "Text": "SEND MONEY TRANSFERS TO: ",
+      "attributes": {
+        "LineHeight": 19.25
+      },
+      "Font": {
+        "name": "BCDGEE+Calibri-Light",
+        "weight": 300,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 80
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/P/Sub",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        652.6750030517578,
+        159.35690307617188,
+        663.6549987792969
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        652.6750030517578,
+        159.35690307617188,
+        663.6549987792969
+      ],
+      "Page": 3,
+      "Text": "Safety Center Bank ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 81
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/P/Sub[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        638.2149963378906,
+        204.0555877685547,
+        649.1950073242188
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        638.2149963378906,
+        204.0555877685547,
+        649.1950073242188
+      ],
+      "Page": 3,
+      "Text": "Routing Number: 123456789 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 82
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/P/Sub[3]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        623.6950073242188,
+        222.7758331298828,
+        634.6750030517578
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        623.6950073242188,
+        222.7758331298828,
+        634.6750030517578
+      ],
+      "Page": 3,
+      "Text": "Account Number: 100200300400 ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 83
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/P/Sub[4]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        609.2350006103516,
+        214.2569122314453,
+        620.2149963378906
+      ],
+      "TextSize": 10.979995727539062,
+      "ClipBounds": [
+        72,
+        609.2350006103516,
+        214.2569122314453,
+        620.2149963378906
+      ],
+      "Page": 3,
+      "Text": "Reference: Use invoice number ",
+      "attributes": {
+        "Placement": "Block"
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 84
+    },
+    {
+      "Path": "//Document/Sect[4]/Sect[7]/P[2]",
+      "HasClip": true,
+      "Bounds": [
+        72,
+        527.3950042724609,
+        512.3631591796875,
+        576.9550018310547
+      ],
+      "TextSize": 10.020004272460938,
+      "ClipBounds": [
+        72,
+        527.3950042724609,
+        512.3631591796875,
+        576.9550018310547
+      ],
+      "Lang": "en",
+      "Page": 3,
+      "Text": "DISCLAIMER: These templates may be used in sample workflows only to test out the Document Generation API, and is for informational purposes only. Adobe disclaims all responsibility regarding the legality of these templates. By using these templates, you agree to consult independent legal counsel for the drafting of any legal obligations within these templates. ",
+      "attributes": {
+        "SpaceAfter": 18
+      },
+      "Font": {
+        "name": "BCDEEE+Calibri",
+        "weight": 400,
+        "alt_family_name": "Calibri",
+        "monospaced": false,
+        "encoding": "WinAnsiEncoding",
+        "embedded": true,
+        "family_name": "Calibri",
+        "font_type": "TrueType",
+        "italic": false,
+        "subset": true
+      },
+      "elementId": 85
+    }
+  ],
+  "version": {
+    "schema": "1.1.0",
+    "table_structure": "5",
+    "page_segmentation": "5",
+    "json_export": "185",
+    "structure": "1.1022.0"
+  }
+}
