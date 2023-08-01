@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Adobe Acrobat Services Extract API Output</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            padding: 20px;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 200px;
+        }
+
+        h1 {
+            margin-top: 40px;
+            text-align: center;
+            border-bottom: 1px solid red; /* Add this line */
+            width: 38%; /* Adjust the width as needed */
+            margin-left: auto; /* Center the h1 element */
+            margin-right: auto; /* Center the h1 element */
+        }
+
+        footer {
+            padding: 10px;
+            text-align: center;
+        }
+
+        .table-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        /* Blinking animation */
+        .blinking {
+            animation: blink 6s infinite;
+        }
+
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0.2; }
+            100% { opacity: 1; }
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: blue;
+        }
+
+        /* Styling for embedded PDFs */
+        .pdf-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+        }
+
+        .pdf-embed {
+            width: 49%;
+            height: 1000px;
+            overflow-y: auto;
+        }
+
+        .glitter {
+            color: red;
+            position: relative;
+            display: inline-block;
+        }
+
+        .export-button {
+            padding: 12px 24px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition-duration: 0.4s;
+            margin: 20px auto;
+            display: block;
+        }
+
+        .export-button:hover {
+            background-color: #0056b3;
+        }
+
+        .export-button:active {
+            background-color: #004080;
+            transform: translateY(2px);
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <img src="{{ url_for('static', filename='adobe.png') }}" alt="Logo" width="75" height="75">
+    </header>
+
+    <h1>Adobe Acrobat Services Extract API Output</h1>
+    <!--hr color="red" size="1" width="2000 "-->
+    <br><br>
+    <div class="table-container">
+        <table>
+            <tr>
+                <th>PDF Invoice</th>
+                <th>Invoice Number</th>
+                <th>Invoice Date</th>
+                <th>Customer ID</th>
+                <th>PO</th>
+                <th>Order Number</th>
+                <th>Total Due</th>
+                <th>Due Date</th>
+                <th>Sentiment Score</th>
+                <th>Sentiment Label</th>
+            </tr>
+            {% for result in results %}
+            <tr>
+                <td><span class="blinking highlight">{{ result['pdf_file_name'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['invoice_number'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['invoice_date'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['customer_id'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['po'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['order_number'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['total_due'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['due_date'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['sentiment_score'] }}</span></td>
+                <td><span class="blinking highlight">{{ result['sentiment_label'] }}</span></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
+    <form action="/export" method="post">
+        <input type="hidden" name="results" value="{{ results | jsonify }}">
+        <button class="export-button" type="submit">Export to CSV</button>
+    </form>
+
+    <div class="pdf-container">
+        <iframe class="pdf-embed" src="{{url_for('static', filename='Global Corp.pdf')}}"></iframe>
+        <iframe class="pdf-embed" src="{{url_for('static', filename='Sliced Invoices.pdf')}}"></iframe>
+    </div>
+
+    <footer>
+        &copy; 2023 Your Company. All rights reserved.
+    </footer>
+</body>
+</html>
